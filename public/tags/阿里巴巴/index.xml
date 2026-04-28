@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>阿里巴巴 on 紫薯蜀黍的技术博客</title>
-    <link>https://blog.zsss.fun/tags/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4/</link>
+    <link>http://localhost:1313/tags/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4/</link>
     <description>Recent content in 阿里巴巴 on 紫薯蜀黍的技术博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 28 Apr 2026 16:48:00 +0800</lastBuildDate>
-    <atom:link href="https://blog.zsss.fun/tags/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>阿里 HappyHorse 视频生成模型深度解析</title>
-      <link>https://blog.zsss.fun/posts/happyhorse-analysis/</link>
+      <link>http://localhost:1313/posts/happyhorse-analysis/</link>
       <pubDate>Tue, 28 Apr 2026 16:48:00 +0800</pubDate>
-      <guid>https://blog.zsss.fun/posts/happyhorse-analysis/</guid>
+      <guid>http://localhost:1313/posts/happyhorse-analysis/</guid>
       <description>阿里巴巴 ATH 推出的 HappyHorse-1.0 视频生成模型深度解析，核心技术特点、架构创新与竞品对比。</description>
     </item>
   </channel>
