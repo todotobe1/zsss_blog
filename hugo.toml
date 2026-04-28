@@ -20,9 +20,9 @@ minifyOutput = true
   description = "关注 AI Coding、具身智能与独立开发"
   keywords = ["AI", "Hugo", "独立开发", "AI Coding", "具身智能"]
   author = "zsss"
-  # profileMode 开启主页人物卡片
+  # profileMode 关闭，首页直接显示文章列表
   [params.profileMode]
-    enabled = true
+    enabled = false
     title = "zsss"
     subtitle = "关注 AI Coding · 具身智能 · 独立开发"
     imageUrl = "avatar.png"
