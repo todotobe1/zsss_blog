@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AI Coding on zsss 的技术博客</title>
-    <link>https://blog.zsss.fun/tags/ai-coding/</link>
-    <description>Recent content in AI Coding on zsss 的技术博客</description>
+    <title>AI Coding on 紫薯蜀黍的技术博客</title>
+    <link>http://localhost:1313/tags/ai-coding/</link>
+    <description>Recent content in AI Coding on 紫薯蜀黍的技术博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 26 Apr 2026 10:00:00 +0800</lastBuildDate>
-    <atom:link href="https://blog.zsss.fun/tags/ai-coding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ai-coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2026 年 AI Coding 工具全景</title>
-      <link>https://blog.zsss.fun/posts/ai-coding-2026/</link>
+      <link>http://localhost:1313/posts/ai-coding-2026/</link>
       <pubDate>Sun, 26 Apr 2026 10:00:00 +0800</pubDate>
-      <guid>https://blog.zsss.fun/posts/ai-coding-2026/</guid>
+      <guid>http://localhost:1313/posts/ai-coding-2026/</guid>
       <description>从 Copilot 到 Agent 模式，2026 年 AI 编程工具的格局与趋势。</description>
     </item>
   </channel>
