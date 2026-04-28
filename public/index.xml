@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>紫薯蜀黍的技术博客</title>
-    <link>http://localhost:1313/</link>
+    <link>https://blog.zsss.fun/</link>
     <description>Recent content on 紫薯蜀黍的技术博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 28 Apr 2026 13:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.zsss.fun/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World：用 Hugo 搭建博客</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>https://blog.zsss.fun/posts/hello-world/</link>
       <pubDate>Tue, 28 Apr 2026 13:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>https://blog.zsss.fun/posts/hello-world/</guid>
       <description>用 Hugo 搭建个人博客的起点——记录这个站点是如何诞生的。</description>
     </item>
     <item>
+      <title>阿里 HappyHorse 视频生成模型深度解析</title>
+      <link>https://blog.zsss.fun/posts/happyhorse-analysis/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.zsss.fun/posts/happyhorse-analysis/</guid>
+      <description>阿里巴巴 ATH 推出的 HappyHorse-1.0 视频生成模型深度解析，核心技术特点、架构创新与竞品对比。</description>
+    </item>
+    <item>
       <title>关于我</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://blog.zsss.fun/about/</link>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://blog.zsss.fun/about/</guid>
       <description>&lt;h2 id=&#34;hi我是-zsss-&#34;&gt;Hi，我是 zsss 👋&lt;/h2&gt;
 &lt;p&gt;一个关注 &lt;strong&gt;AI 技术&lt;/strong&gt;的独立开发者与内容创作者。&lt;/p&gt;
 &lt;h3 id=&#34;关注领域&#34;&gt;关注领域&lt;/h3&gt;
@@ -45,16 +52,16 @@
     </item>
     <item>
       <title>2026 年 AI Coding 工具全景</title>
-      <link>http://localhost:1313/posts/ai-coding-2026/</link>
+      <link>https://blog.zsss.fun/posts/ai-coding-2026/</link>
       <pubDate>Sun, 26 Apr 2026 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/ai-coding-2026/</guid>
+      <guid>https://blog.zsss.fun/posts/ai-coding-2026/</guid>
       <description>从 Copilot 到 Agent 模式，2026 年 AI 编程工具的格局与趋势。</description>
     </item>
     <item>
       <title>具身智能入门：当 AI 有了身体</title>
-      <link>http://localhost:1313/posts/embodied-ai-intro/</link>
+      <link>https://blog.zsss.fun/posts/embodied-ai-intro/</link>
       <pubDate>Mon, 20 Apr 2026 09:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/embodied-ai-intro/</guid>
+      <guid>https://blog.zsss.fun/posts/embodied-ai-intro/</guid>
       <description>具身智能（Embodied AI）正在从实验室走向现实，这篇文章梳理其核心概念与发展现状。</description>
     </item>
   </channel>
