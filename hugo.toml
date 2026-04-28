@@ -1,4 +1,4 @@
-baseURL = "https://zsss.dev/"
+baseURL = "/"
 languageCode = "zh-cn"
 title = "zsss 的技术博客"
 theme = "PaperMod"
