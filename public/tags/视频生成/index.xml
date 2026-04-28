@@ -6,12 +6,12 @@
     <description>Recent content in 视频生成 on 紫薯蜀黍的技术博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 28 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 16:48:00 +0800</lastBuildDate>
     <atom:link href="https://blog.zsss.fun/tags/%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>阿里 HappyHorse 视频生成模型深度解析</title>
       <link>https://blog.zsss.fun/posts/happyhorse-analysis/</link>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Apr 2026 16:48:00 +0800</pubDate>
       <guid>https://blog.zsss.fun/posts/happyhorse-analysis/</guid>
       <description>阿里巴巴 ATH 推出的 HappyHorse-1.0 视频生成模型深度解析，核心技术特点、架构创新与竞品对比。</description>
     </item>
