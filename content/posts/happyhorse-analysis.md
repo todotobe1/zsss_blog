@@ -1,6 +1,6 @@
 ---
 title: "阿里 HappyHorse 视频生成模型深度解析"
-date: 2026-04-28
+date: 2026-04-28T16:48:00+08:00
 draft: false
 tags: ["AI", "视频生成", "阿里巴巴", "大模型"]
 categories: ["AI 动态"]
