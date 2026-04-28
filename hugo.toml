@@ -1,6 +1,6 @@
 baseURL = "https://blog.zsss.fun"
 languageCode = "zh-cn"
-title = "zsss 的技术博客"
+title = "紫薯蜀黍的技术博客"
 theme = "PaperMod"
 enableRobotsTXT = true
 
@@ -16,19 +16,19 @@ minifyOutput = true
 
 [params]
   env = "production"
-  title = "zsss"
+  title = "紫薯蜀黍"
   description = "关注 AI Coding、具身智能与独立开发"
   keywords = ["AI", "Hugo", "独立开发", "AI Coding", "具身智能"]
-  author = "zsss"
+  author = "紫薯蜀黍"
   # profileMode 关闭，首页直接显示文章列表
   [params.profileMode]
     enabled = false
-    title = "zsss"
+    title = "紫薯蜀黍"
     subtitle = "关注 AI Coding · 具身智能 · 独立开发"
     imageUrl = "avatar.png"
     imageWidth = 120
     imageHeight = 120
-    imageTitle = "zsss"
+    imageTitle = "紫薯蜀黍"
     [[params.profileMode.buttons]]
       name = "文章"
       url = "/posts"
@@ -37,16 +37,12 @@ minifyOutput = true
       url = "/tags"
 
   [params.homeInfoParams]
-    Title = "欢迎来到 zsss 的博客 👋"
+    Title = "欢迎来到紫薯蜀黍的博客 👋"
     Content = "关注 AI Coding、具身智能与独立开发，记录技术探索与思考。"
 
   [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/zsss"
-
-  [[params.socialIcons]]
-    name = "twitter"
-    url = "https://twitter.com/zsss"
+    url = "https://github.com/todotobe1"
 
   [params.analytics.google]
     SiteVerificationTag = ""
@@ -57,7 +53,7 @@ minifyOutput = true
     hiddenInSingle = false
 
   [params.editPost]
-    URL = "https://github.com/zsss/zsss_blog/tree/main/content"
+    URL = "https://github.com/todotobe1/zsss_blog/tree/main/content"
     Text = "建议修改"
     appendFilePath = true
 

@@ -1,0 +1,40 @@
+mainSections   = ["posts"]
+rssFullContent = true
+favicon        = "img/favicon.ico"
+
+[footer]
+    since = 2025
+
+[sidebar]
+    emoji    = "👋"
+    subtitle = "关注 AI Coding、具身智能与独立开发"
+    avatar   = "img/avatar.png"
+
+[article]
+    [article.license]
+        enabled = false
+
+[widgets]
+    homepage = [
+        { type = "search" },
+        { type = "categories", params = { limit = 10 } },
+        { type = "tag-cloud", params = { limit = 10 } },
+    ]
+    page     = [{ type = "toc" }]
+
+[comments]
+    enabled  = true
+    provider = "giscus"
+
+    [comments.params]
+        repo    = "todotobe1/zsss_blog"
+        repoId  = "YOUR_REPO_ID"
+        category = "Announcements"
+        categoryId = "YOUR_CATEGORY_ID"
+
+[cookies]
+    enabled = false
+
+[verification]
+    google  = ""
+    baidu   = ""
